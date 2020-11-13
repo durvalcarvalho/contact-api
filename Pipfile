@@ -12,6 +12,7 @@ gunicorn = "*"
 psycopg2-binary = "*"
 psycopg2 = "==2.8.6"
 django-heroku = "*"
+django-cors-headers = "*"
 
 [dev-packages]
 
