@@ -1,0 +1,3 @@
+JWT_SECRET_KEY=v@0u+oex-&wsvs*_&$4m^j58wpti!d#^4dk&xfh-d5ffmn!hgi
+SECRET_KEY=v@0u+oex-&wsvs*_&$4m^j58wpti!d#^4dk&xfh-d5ffmn!hgi
+DEBUG=True
